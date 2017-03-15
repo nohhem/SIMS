@@ -1,0 +1,9 @@
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\bin\Debug\SIMS1.exe.config
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\obj\Debug\SIMS1.csprojResolveAssemblyReference.cache
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\obj\Debug\SIMS1.Properties.Resources.resources
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\obj\Debug\SIMS1.csproj.GenerateResource.Cache
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\bin\Debug\SIMS1.exe
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\bin\Debug\SIMS1.pdb
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\obj\Debug\SIMS1.exe
+C:\Users\noh\Documents\repos\SIMS\SIMS1\SIMS1\obj\Debug\SIMS1.pdb
